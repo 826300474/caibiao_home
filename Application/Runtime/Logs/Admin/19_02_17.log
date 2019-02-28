@@ -1,0 +1,2602 @@
+[ 2019-02-17T19:05:17+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:05:17+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:05:17+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `user` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:05:18+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:05:21+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:05:21+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `user` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:05:21+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:13:30+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:13:30+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:13:30+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:13:46+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:13:48+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:13:53+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:13:55+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:13:55+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:13:56+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:14:54+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:14:56+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:15:42+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:15:44+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:15:52+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:15:52+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:16:00+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+
+[ 2019-02-17T19:16:28+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`tel`,`pass`,`name`,`nicheng`,`id`,`daili`) VALUES ('1132','3132','31321','13','2006','0') [ RunTime:0.0240s ]
+
+[ 2019-02-17T19:16:31+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:16:31+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `user` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:16:31+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:16:58+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:16:58+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `user` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:16:58+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:17:15+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`tel`,`pass`,`name`,`nicheng`,`id`,`daili`) VALUES ('王强','132456','132456','1212','2001','0') [ RunTime:0.0200s ]
+
+[ 2019-02-17T19:17:16+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-02-17T19:17:16+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:17:16+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `user` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:17:39+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`tel`,`pass`,`name`,`nicheng`,`id`,`daili`) VALUES ('俞','666','666','555','2002','0') [ RunTime:0.0560s ]
+
+[ 2019-02-17T19:17:40+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:17:40+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `user` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:17:40+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:18:23+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:18:23+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `user` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:18:23+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:18:31+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `user` (`tel`,`pass`,`name`,`nicheng`,`id`,`daili`) VALUES ('爱的','999','999','99','20003','0') [ RunTime:0.0020s ]
+
+[ 2019-02-17T19:18:33+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:18:33+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `user` LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:18:33+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:18:57+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:18:57+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `user` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:18:57+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:19:08+08:00 ] ::1 /index.php/admin/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`tel`,`pass`,`name`,`nicheng`,`id`,`daili`) VALUES ('可以的','999','999','999','200004','0') [ RunTime:0.0550s ]
+
+[ 2019-02-17T19:19:10+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:19:10+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:19:10+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `user` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:19:24+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:19:25+08:00 ] ::1 /index.php/admin/daili/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `daili` WHERE ( level!=0 ) LIMIT 0,10   [ RunTime:0.0040s ]
+
+[ 2019-02-17T19:19:25+08:00 ] ::1 /index.php/admin/daili/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `daili` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:20:19+08:00 ] ::1 /index.php/admin/daili/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `daili` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `daili` LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `daili` (`daili`,`tel`,`nicheng`,`beizhu`,`loginpass`,`bankpass`,`touzhubili`,`gendanbili`,`state`,`tixian`,`level`,`id`,`code`) VALUES ('0','1321','1231','1321','132','1','1','1','启用','允许','1','100009','100009') [ RunTime:0.0170s ]
+
+[ 2019-02-17T19:20:21+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:20:21+08:00 ] ::1 /index.php/admin/daili/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( level!=0 ) LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:20:21+08:00 ] ::1 /index.php/admin/daili/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `daili` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:23:23+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:23:23+08:00 ] ::1 /index.php/admin/daili/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( level!=0 ) LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:23:23+08:00 ] ::1 /index.php/admin/daili/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `daili` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:23:25+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:24:06+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:26:41+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:27:12+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:28:09+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:28:10+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `user` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:28:10+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:28:16+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:28:22+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0640s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:28:23+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `user` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:28:23+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:28:27+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:28:32+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:28:33+08:00 ] ::1 /index.php/admin/user/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `user` LIMIT 0,10   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:28:33+08:00 ] ::1 /index.php/admin/user/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\UserController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:28:35+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:31:12+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:39:16+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:40:00+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:40:59+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:43:57+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:43:58+08:00 ] ::1 /index.php/admin/daili/get
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( level!=0 ) LIMIT 0,10   [ RunTime:0.0020s ]
+
+[ 2019-02-17T19:43:58+08:00 ] ::1 /index.php/admin/daili/getCount
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `daili` LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:44:56+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:45:32+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T19:45:56+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="18367458480" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T19:57:51+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\ZhuanzhangController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.030002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.031002s ]
+
+[ 2019-02-17T20:00:44+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2019-02-17T20:00:45+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:00:46+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:00:50+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `zhuanzhang` [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:00:57+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `zhuanzhang` [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:03:14+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-02-17T20:03:19+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-02-17T20:04:06+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:04:15+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:05:12+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016600s ]
+
+[ 2019-02-17T20:06:05+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2019-02-17T20:06:06+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-02-17T20:06:07+08:00 ] ::1 /index.php/admin/daili/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-02-17T20:06:26+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `zhuanzhang` [ RunTime:0.0040s ]
+SQL: INSERT INTO `zhuanzhang` (`id`,`money`,`type`,`beizhu`,`score`,`pass`) VALUES ('200004','0','银行分','23','23','23') [ RunTime:0.0560s ]
+
+[ 2019-02-17T20:09:53+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `zhuanzhang` [ RunTime:0.0020s ]
+SQL: INSERT INTO `zhuanzhang` (`id`,`money`,`type`,`beizhu`,`score`,`pass`,`code`) VALUES ('200004','0','银行分','453453','4532453','453','0') [ RunTime:0.0160s ]
+
+[ 2019-02-17T20:10:16+08:00 ] ::1 /index.php/admin/daili/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="15888092220" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: pass E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 27 行.
+NOTIC: [8] Undefined variable: loginpass E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 27 行.
+
+[ 2019-02-17T20:10:16+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="15888092220" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:10:23+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `zhuanzhang` [ RunTime:0.0040s ]
+SQL: INSERT INTO `zhuanzhang` (`id`,`money`,`type`,`beizhu`,`score`,`pass`,`code`) VALUES ('200004','0','银行分','45345','110','453453','1007') [ RunTime:0.0050s ]
+
+[ 2019-02-17T20:16:36+08:00 ] ::1 /index.php/admin/daili/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:16:37+08:00 ] ::1 /index.php/admin/daili/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-02-17T20:16:37+08:00 ] ::1 /index.php/admin/daili/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:16:47+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-02-17T20:16:59+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:17:44+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:17:47+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-02-17T20:18:15+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:18:18+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:18:18+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:18:18+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:18:41+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-02-17T20:18:54+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:18:54+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:18:55+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:18:55+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-02-17T20:18:55+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2019-02-17T20:19:58+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T20:20:44+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: data E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 10 行.
+
+[ 2019-02-17T20:20:54+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: pass E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 10 行.
+
+[ 2019-02-17T20:20:55+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: pass E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 10 行.
+
+[ 2019-02-17T20:21:01+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T20:21:21+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: data E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 10 行.
+
+[ 2019-02-17T20:21:22+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: data E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 10 行.
+
+[ 2019-02-17T20:21:27+08:00 ] ::1 /index.php/admin/daili/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-02-17T20:21:27+08:00 ] ::1 /index.php/admin/daili
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2019-02-17T20:21:36+08:00 ] ::1 /index.php/admin/daili
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-02-17T20:21:37+08:00 ] ::1 /index.php/admin/daili
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:21:38+08:00 ] ::1 /index.php/admin/daili
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:21:49+08:00 ] ::1 /index.php/admin/zhuan
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Zhuan
+
+[ 2019-02-17T20:21:54+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:23:51+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:23:52+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:24:01+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:24:38+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-02-17T20:24:44+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:26:21+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-02-17T20:26:32+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:26:34+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-02-17T20:26:35+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-02-17T20:26:35+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:26:36+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:26:36+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:26:36+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-02-17T20:26:36+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:26:42+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T20:27:01+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:27:07+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T20:27:11+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0500s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:27:37+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T20:27:40+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="15888092220" ) LIMIT 1   [ RunTime:0.0040s ]
+
+[ 2019-02-17T20:27:44+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-02-17T20:27:46+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:27:47+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T20:27:48+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-02-17T20:28:24+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:28:25+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2019-02-17T20:28:27+08:00 ] ::1 /index.php/admin/daili/getInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Admin\Controller\DailiController::get() should be compatible with Think\Controller::get($name = '') E:\wamp\www\Application\Admin\Controller\DailiController.class.php 第 52 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( tel="15888092220" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:28:33+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:28:34+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:28:35+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2019-02-17T20:28:40+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:29:09+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:29:10+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:29:14+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:29:16+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:29:22+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `zhuanzhang` [ RunTime:0.0030s ]
+SQL: INSERT INTO `zhuanzhang` (`id`,`money`,`type`,`beizhu`,`score`,`pass`,`code`) VALUES ('200004','0','银行分','75','754','123456','1007') [ RunTime:0.0550s ]
+
+[ 2019-02-17T20:38:09+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Common\Model\DailiModel.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:38:10+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Common\Model\DailiModel.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:38:12+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Common\Model\DailiModel.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:38:12+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Common\Model\DailiModel.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:38:12+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Common\Model\DailiModel.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-02-17T20:38:31+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Common\Model\DailiModel.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:38:31+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Common\Model\DailiModel.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:38:31+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Common\Model\DailiModel.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-02-17T20:38:32+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Common\Model\DailiModel.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:38:51+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Common\Model\DailiModel.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:39:25+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion E:\wamp\www\Application\Common\Model\DailiModel.class.php 第 10 行.
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Common\Model\DailiModel.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:40:32+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:40:33+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:40:34+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-02-17T20:40:34+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:40:34+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2019-02-17T20:40:34+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:40:45+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+NOTIC: [8] Array to string conversion E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 13 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:41:00+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:41:58+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+
+[ 2019-02-17T20:42:00+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+
+[ 2019-02-17T20:42:00+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+
+[ 2019-02-17T20:42:06+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+
+[ 2019-02-17T20:44:15+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-02-17T20:44:24+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+
+[ 2019-02-17T20:45:26+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+ERR: Think\Model:savemoney方法不存在！
+
+[ 2019-02-17T20:45:56+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:46:49+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion E:\wamp\www\Application\Common\Model\DailiModel.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:47:01+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-02-17T20:47:35+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2019-02-17T20:47:47+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\wamp\www\ThinkPHP\Library\Think\Db\Driver.class.php 第 372 行.
+NOTIC: [8] Undefined variable: set E:\wamp\www\ThinkPHP\Library\Think\Db\Driver.class.php 第 387 行.
+NOTIC: [2] implode(): Invalid arguments passed E:\wamp\www\ThinkPHP\Library\Think\Db\Driver.class.php 第 387 行.
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( code="8888" )' à la ligne 1
+ [ SQL语句 ] : UPDATE `daili` SET  WHERE ( code="8888" )
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( code="8888" )' à la ligne 1
+ [ SQL语句 ] : UPDATE `daili` SET  WHERE ( code="8888" )
+
+[ 2019-02-17T20:48:32+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 267 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\wamp\www\ThinkPHP\Library\Think\Db\Driver.class.php 第 372 行.
+NOTIC: [8] Undefined variable: set E:\wamp\www\ThinkPHP\Library\Think\Db\Driver.class.php 第 387 行.
+NOTIC: [2] implode(): Invalid arguments passed E:\wamp\www\ThinkPHP\Library\Think\Db\Driver.class.php 第 387 行.
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( code="8888" )' à la ligne 1
+ [ SQL语句 ] : UPDATE `daili` SET  WHERE ( code="8888" )
+ERR: 1064:Erreur de syntaxe près de 'WHERE ( code="8888" )' à la ligne 1
+ [ SQL语句 ] : UPDATE `daili` SET  WHERE ( code="8888" )
+
+[ 2019-02-17T20:48:52+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: UPDATE `daili` SET `name`='不错的',`id`='1010',`tel`='18356565656',`nicheng`='您的',`touzhu`='0',`touzhubili`='0',`gendan`='0',`gendanbili`='0',`zhancheng`='0',`xianxia`='0',`huiyuan`='0',`ip`='',`state`='',`money`='100',`daili`='1007',`beizhu`='',`loginpass`='123456',`bankpass`='123456',`tixian`='0',`level`='0',`code`='8888' WHERE ( code="8888" ) [ RunTime:0.0520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:48:54+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: UPDATE `daili` SET `name`='不错的',`id`='1010',`tel`='18356565656',`nicheng`='您的',`touzhu`='0',`touzhubili`='0',`gendan`='0',`gendanbili`='0',`zhancheng`='0',`xianxia`='0',`huiyuan`='0',`ip`='',`state`='',`money`='100',`daili`='1007',`beizhu`='',`loginpass`='123456',`bankpass`='123456',`tixian`='0',`level`='0',`code`='8888' WHERE ( code="8888" ) [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-02-17T20:48:54+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: UPDATE `daili` SET `name`='不错的',`id`='1010',`tel`='18356565656',`nicheng`='您的',`touzhu`='0',`touzhubili`='0',`gendan`='0',`gendanbili`='0',`zhancheng`='0',`xianxia`='0',`huiyuan`='0',`ip`='',`state`='',`money`='100',`daili`='1007',`beizhu`='',`loginpass`='123456',`bankpass`='123456',`tixian`='0',`level`='0',`code`='8888' WHERE ( code="8888" ) [ RunTime:0.0530s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-02-17T20:48:55+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: UPDATE `daili` SET `name`='不错的',`id`='1010',`tel`='18356565656',`nicheng`='您的',`touzhu`='0',`touzhubili`='0',`gendan`='0',`gendanbili`='0',`zhancheng`='0',`xianxia`='0',`huiyuan`='0',`ip`='',`state`='',`money`='100',`daili`='1007',`beizhu`='',`loginpass`='123456',`bankpass`='123456',`tixian`='0',`level`='0',`code`='8888' WHERE ( code="8888" ) [ RunTime:0.1130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-02-17T20:48:55+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: UPDATE `daili` SET `name`='不错的',`id`='1010',`tel`='18356565656',`nicheng`='您的',`touzhu`='0',`touzhubili`='0',`gendan`='0',`gendanbili`='0',`zhancheng`='0',`xianxia`='0',`huiyuan`='0',`ip`='',`state`='',`money`='100',`daili`='1007',`beizhu`='',`loginpass`='123456',`bankpass`='123456',`tixian`='0',`level`='0',`code`='8888' WHERE ( code="8888" ) [ RunTime:0.0540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-02-17T20:48:56+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: UPDATE `daili` SET `name`='不错的',`id`='1010',`tel`='18356565656',`nicheng`='您的',`touzhu`='0',`touzhubili`='0',`gendan`='0',`gendanbili`='0',`zhancheng`='0',`xianxia`='0',`huiyuan`='0',`ip`='',`state`='',`money`='100',`daili`='1007',`beizhu`='',`loginpass`='123456',`bankpass`='123456',`tixian`='0',`level`='0',`code`='8888' WHERE ( code="8888" ) [ RunTime:0.0600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-02-17T20:48:56+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: UPDATE `daili` SET `name`='不错的',`id`='1010',`tel`='18356565656',`nicheng`='您的',`touzhu`='0',`touzhubili`='0',`gendan`='0',`gendanbili`='0',`zhancheng`='0',`xianxia`='0',`huiyuan`='0',`ip`='',`state`='',`money`='100',`daili`='1007',`beizhu`='',`loginpass`='123456',`bankpass`='123456',`tixian`='0',`level`='0',`code`='8888' WHERE ( code="8888" ) [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:48:56+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: UPDATE `daili` SET `name`='不错的',`id`='1010',`tel`='18356565656',`nicheng`='您的',`touzhu`='0',`touzhubili`='0',`gendan`='0',`gendanbili`='0',`zhancheng`='0',`xianxia`='0',`huiyuan`='0',`ip`='',`state`='',`money`='100',`daili`='1007',`beizhu`='',`loginpass`='123456',`bankpass`='123456',`tixian`='0',`level`='0',`code`='8888' WHERE ( code="8888" ) [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:48:56+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: UPDATE `daili` SET `name`='不错的',`id`='1010',`tel`='18356565656',`nicheng`='您的',`touzhu`='0',`touzhubili`='0',`gendan`='0',`gendanbili`='0',`zhancheng`='0',`xianxia`='0',`huiyuan`='0',`ip`='',`state`='',`money`='100',`daili`='1007',`beizhu`='',`loginpass`='123456',`bankpass`='123456',`tixian`='0',`level`='0',`code`='8888' WHERE ( code="8888" ) [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-02-17T20:48:57+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: UPDATE `daili` SET `name`='不错的',`id`='1010',`tel`='18356565656',`nicheng`='您的',`touzhu`='0',`touzhubili`='0',`gendan`='0',`gendanbili`='0',`zhancheng`='0',`xianxia`='0',`huiyuan`='0',`ip`='',`state`='',`money`='100',`daili`='1007',`beizhu`='',`loginpass`='123456',`bankpass`='123456',`tixian`='0',`level`='0',`code`='8888' WHERE ( code="8888" ) [ RunTime:0.1670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:50:08+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: UPDATE `daili` SET `money`='95' WHERE ( code="8888" ) [ RunTime:0.0530s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-02-17T20:50:36+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: UPDATE `daili` SET `money`='90' WHERE ( code="8888" ) [ RunTime:0.0600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:53:04+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:54:06+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:54:31+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `user` WHERE ( id="200004" ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:54:33+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `user` WHERE ( id="200004" ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:54:34+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `user` WHERE ( id="200004" ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:54:34+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `user` WHERE ( id="200004" ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:54:34+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `user` WHERE ( id="200004" ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-02-17T20:55:21+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `user` WHERE ( id="200004" ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-02-17T20:56:15+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `user` WHERE ( id="200004" ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `user` SET `money`='5' WHERE ( id="200004" ) [ RunTime:0.0590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-02-17T20:56:16+08:00 ] ::1 /index.php/admin/zhuanzhang/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `daili` WHERE ( code="8888" ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 13 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `user` WHERE ( id="200004" ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `user` SET `money`='10' WHERE ( id="200004" ) [ RunTime:0.0520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2019-02-17T21:00:50+08:00 ] ::1 /index.php/admin/zhuanzhang/go
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `daili` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `daili` WHERE ( code="1007" ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: score E:\wamp\www\Application\Admin\Controller\ZhuanzhangController.class.php 第 34 行.
+
